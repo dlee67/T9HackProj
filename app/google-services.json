@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "549773653536",
+    "firebase_url": "https://t9hackproj.firebaseio.com",
+    "project_id": "t9hackproj",
+    "storage_bucket": "t9hackproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549773653536:android:ff8970681381f3c2",
+        "android_client_info": {
+          "package_name": "com.example.bob.t9hackproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549773653536-npec9edjrs36hl6e14uca9e81ueilkuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bob.t9hackproj",
+            "certificate_hash": "2be0018a6bc4cfba3fc77bdac990a7099dfe7abf"
+          }
+        },
+        {
+          "client_id": "549773653536-rnob7nq1gnlf9nnmg7iq8j9ur4p879r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEeS4AqjAG2DK1JURqN5goVKEkYhCB8p8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549773653536-rnob7nq1gnlf9nnmg7iq8j9ur4p879r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
