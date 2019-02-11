@@ -1,2 +1,2 @@
 # T9HackProj
-Not sure what I should make...
+This place is my playground for playing around Firebase now.
